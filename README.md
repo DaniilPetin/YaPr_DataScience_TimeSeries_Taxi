@@ -1,6 +1,6 @@
 # YaPr_DataScience_TimeSeries_Taxi
 
-Основной стек инструментов: Python (pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, SHAP, Statsmodels), Jupyter, CSV, машинное обучение (линейная регрессия, K-ближайших соседей, деревья решений, случайный лес, градиентный бустинг), оптимизация гиперпараметров (RandomizedSearchCV, GridSearchCV, кросс-валидация, TimeSeriesSplit), метрики качества (MSE), анализ временных рядов (сезонная декомпозиция), интерпретируемость моделей (SHAP).
+**Основной стек инструментов: Python (pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, SHAP, Statsmodels), Jupyter, CSV, машинное обучение (линейная регрессия, K-ближайших соседей, деревья решений, случайный лес, градиентный бустинг), оптимизация гиперпараметров (RandomizedSearchCV, GridSearchCV, кросс-валидация, TimeSeriesSplit), метрики качества (MSE), анализ временных рядов (сезонная декомпозиция), интерпретируемость моделей (SHAP).**
 
 Проект по Временным рядам в ML
 # Прогнозирование заказов такси
